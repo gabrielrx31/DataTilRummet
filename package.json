@@ -1,0 +1,23 @@
+{
+  "name": "datatilrummet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spaceServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrx31/DataTilRummet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielrx31/DataTilRummet/issues"
+  },
+  "homepage": "https://github.com/gabrielrx31/DataTilRummet#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
